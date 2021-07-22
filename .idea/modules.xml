@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Nicheditor.iml" filepath="$PROJECT_DIR$/.idea/modules/Nicheditor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SSffmpegVideoOperation/Nicheditor.SSffmpegVideoOperation.iml" filepath="$PROJECT_DIR$/.idea/modules/SSffmpegVideoOperation/Nicheditor.SSffmpegVideoOperation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/camerarecorder/Nicheditor.camerarecorder.iml" filepath="$PROJECT_DIR$/.idea/modules/camerarecorder/Nicheditor.camerarecorder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/Nicheditor.sample.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/Nicheditor.sample.iml" />
+    </modules>
+  </component>
+</project>
